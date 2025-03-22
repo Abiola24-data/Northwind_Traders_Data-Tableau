@@ -51,7 +51,7 @@ This analysis highlights my proficiency in **data visualization, dashboard desig
 - Tracks **discount percentages by product category and sales reps**.  
 - Identifies **how discounts affect overall revenue and profitability**.  
 
-🔗 **View Project on GitHub** [Insert Link]  
+🔗 **View Project on GitHub** [(https://github.com/Abiola24-data/Northwind_Traders_Data-Tableau/tree/main)]  
 
 ---
 
